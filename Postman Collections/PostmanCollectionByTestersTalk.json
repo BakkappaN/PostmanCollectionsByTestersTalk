@@ -2,6 +2,7 @@
 	"info": {
 		"_postman_id": "e3047e7c-1dc6-432b-a70b-00db044ad14e",
 		"name": "Booking API",
+		"description": "Postman Tutorial",
 		"schema": "https://schema.getpostman.com/json/collection/v2.0.0/collection.json"
 	},
 	"item": [
@@ -24,7 +25,7 @@
 							}
 						}
 					],
-					"_postman_id": "9eaa9d9f-ffbd-47d6-b641-1be10a518099",
+					"id": "9eaa9d9f-ffbd-47d6-b641-1be10a518099",
 					"protocolProfileBehavior": {
 						"disableBodyPruning": true
 					},
@@ -81,7 +82,7 @@
 							}
 						}
 					],
-					"_postman_id": "55d37b2c-b1ae-4344-b0c5-1f540fd3be0e",
+					"id": "55d37b2c-b1ae-4344-b0c5-1f540fd3be0e",
 					"protocolProfileBehavior": {
 						"disableBodyPruning": true
 					},
@@ -194,7 +195,7 @@
 							}
 						}
 					],
-					"_postman_id": "1deedb99-b8bd-4697-9ff7-2a344cae0e5b",
+					"id": "1deedb99-b8bd-4697-9ff7-2a344cae0e5b",
 					"protocolProfileBehavior": {
 						"disableBodyPruning": true
 					},
@@ -225,7 +226,7 @@
 							}
 						}
 					],
-					"_postman_id": "1f8b3653-d09b-4c07-a9d7-23879c10683b",
+					"id": "1f8b3653-d09b-4c07-a9d7-23879c10683b",
 					"protocolProfileBehavior": {
 						"disableBodyPruning": true
 					},
@@ -267,7 +268,7 @@
 							}
 						}
 					],
-					"_postman_id": "652ec622-6f22-4e75-87c6-6819b5d7a14b",
+					"id": "652ec622-6f22-4e75-87c6-6819b5d7a14b",
 					"protocolProfileBehavior": {
 						"disableBodyPruning": true
 					},
@@ -314,7 +315,7 @@
 							}
 						}
 					],
-					"_postman_id": "257bad64-cb18-442b-94dd-0f46cfc6f8f1",
+					"id": "257bad64-cb18-442b-94dd-0f46cfc6f8f1",
 					"protocolProfileBehavior": {
 						"disableBodyPruning": true
 					},
@@ -361,7 +362,7 @@
 							}
 						}
 					],
-					"_postman_id": "15d21a77-27cd-433d-9f48-5f2df2fa1f23",
+					"id": "15d21a77-27cd-433d-9f48-5f2df2fa1f23",
 					"protocolProfileBehavior": {
 						"disableBodyPruning": true
 					},
@@ -401,7 +402,7 @@
 							}
 						}
 					],
-					"_postman_id": "f5120823-2c95-4b1b-ba0f-5a7b8bf58f7a",
+					"id": "f5120823-2c95-4b1b-ba0f-5a7b8bf58f7a",
 					"protocolProfileBehavior": {
 						"disableBodyPruning": true
 					},
@@ -415,8 +416,7 @@
 						],
 						"body": {
 							"mode": "raw",
-							"raw": "{\n    \"firstname\": \"Testers\",\n    \"lastname\": \"Talk\",\n    \"totalprice\": 1000,\n    \"depositpaid\": true,\n    \"bookingdates\": {\n        \"checkin\": \"2018-01-01\",\n        \"checkout\": \"2019-01-01\"\n    },\n    \"additionalneeds\": \"super bowls\"\n}",
-							"options": {}
+							"raw": "{\n    \"firstname\": \"Testers\",\n    \"lastname\": \"Talk\",\n    \"totalprice\": 1000,\n    \"depositpaid\": true,\n    \"bookingdates\": {\n        \"checkin\": \"2018-01-01\",\n        \"checkout\": \"2019-01-01\"\n    },\n    \"additionalneeds\": \"super bowls\"\n}"
 						},
 						"url": "https://restful-booker.herokuapp.com/booking"
 					},
@@ -424,7 +424,7 @@
 				},
 				{
 					"name": "File Upload",
-					"_postman_id": "28235514-8864-4d4e-9dce-c0f00cf55574",
+					"id": "28235514-8864-4d4e-9dce-c0f00cf55574",
 					"protocolProfileBehavior": {
 						"disableBodyPruning": true
 					},
@@ -445,10 +445,7 @@
 									"type": "file",
 									"value": null
 								}
-							],
-							"options": {
-								"formdata": {}
-							}
+							]
 						},
 						"url": "http://postman-echo.com/post"
 					},
@@ -456,7 +453,7 @@
 				},
 				{
 					"name": "File Upload Using Binary",
-					"_postman_id": "02bf4373-5894-4f34-ada8-1c2c19131835",
+					"id": "02bf4373-5894-4f34-ada8-1c2c19131835",
 					"protocolProfileBehavior": {
 						"disableBodyPruning": true
 					},
@@ -473,9 +470,6 @@
 							"mode": "file",
 							"file": {
 								"src": ""
-							},
-							"options": {
-								"file": {}
 							}
 						},
 						"url": "http://postman-echo.com/post"
@@ -484,7 +478,7 @@
 				},
 				{
 					"name": "Cookies Using Postman",
-					"_postman_id": "8d1afe3f-404a-4e6d-9994-78f9504d8c47",
+					"id": "8d1afe3f-404a-4e6d-9994-78f9504d8c47",
 					"protocolProfileBehavior": {
 						"disableBodyPruning": true
 					},
@@ -497,7 +491,7 @@
 				},
 				{
 					"name": "Set Cookies",
-					"_postman_id": "8648d11c-2d23-4a02-8282-4b8dd84bdeae",
+					"id": "8648d11c-2d23-4a02-8282-4b8dd84bdeae",
 					"protocolProfileBehavior": {
 						"disableBodyPruning": true
 					},
@@ -531,7 +525,7 @@
 				},
 				{
 					"name": "Get Cookies",
-					"_postman_id": "1b7ebc56-43f8-4564-a4a9-4c9a1eb0fb6f",
+					"id": "1b7ebc56-43f8-4564-a4a9-4c9a1eb0fb6f",
 					"protocolProfileBehavior": {
 						"disableBodyPruning": true
 					},
@@ -544,7 +538,7 @@
 				},
 				{
 					"name": "Delete Cookies",
-					"_postman_id": "4f24c04e-8718-4812-aabf-bfd67c893067",
+					"id": "4f24c04e-8718-4812-aabf-bfd67c893067",
 					"protocolProfileBehavior": {
 						"disableBodyPruning": true
 					},
@@ -574,7 +568,7 @@
 				},
 				{
 					"name": "Basic Auth",
-					"_postman_id": "dc089414-4a14-45e8-ac12-2d7b0d26c49a",
+					"id": "dc089414-4a14-45e8-ac12-2d7b0d26c49a",
 					"protocolProfileBehavior": {
 						"disableBodyPruning": true
 					},
@@ -593,7 +587,7 @@
 					"response": []
 				}
 			],
-			"_postman_id": "92bf7cb8-ef56-4d2d-a1bc-93584167e66c"
+			"id": "92bf7cb8-ef56-4d2d-a1bc-93584167e66c"
 		},
 		{
 			"name": "Negative Scenarios",
@@ -614,7 +608,7 @@
 							}
 						}
 					],
-					"_postman_id": "3d86164b-b0bf-4d79-94a2-929fb3143be5",
+					"id": "3d86164b-b0bf-4d79-94a2-929fb3143be5",
 					"protocolProfileBehavior": {
 						"disableBodyPruning": true
 					},
@@ -641,7 +635,7 @@
 							}
 						}
 					],
-					"_postman_id": "a66c0db2-293f-474a-8e90-766939a100b9",
+					"id": "a66c0db2-293f-474a-8e90-766939a100b9",
 					"protocolProfileBehavior": {
 						"disableBodyPruning": true
 					},
@@ -668,7 +662,7 @@
 					"response": []
 				}
 			],
-			"_postman_id": "c1f47905-aa75-40aa-b38f-04c9dbf5218b"
+			"id": "c1f47905-aa75-40aa-b38f-04c9dbf5218b"
 		}
 	]
 }
