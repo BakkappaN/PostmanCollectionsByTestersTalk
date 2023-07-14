@@ -1,1 +1,1 @@
-# Postman Collections By TestersTalk | Postman Tutorial | API Testing by Testers Talk
+# Postman Collections | Postman Tutorial | API Testing by Testers Talk
