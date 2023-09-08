@@ -1,7 +1,7 @@
 ### Postman Collections | Postman Tutorial | API Testing by Testers Talk
 
 ## How to Learn API Testing? Here is a quick guide - https://www.youtube.com/watch?v=ABqR45MLw5c&list=PLUeDIlio4THGcgNP3_Ocb_I_l4ITai5QT&index=16
-
+=======================================================================
 * #### API Testing Using Postman Full Course - https://www.youtube.com/watch?v=QKBa8lt5Wfo&list=PLUeDIlio4THGcgNP3_Ocb_I_l4ITai5QT&index=1
 * #### Postman Collections by Testers Talk - https://www.youtube.com/watch?v=HNtgl4KHW7k&list=PLUeDIlio4THGcgNP3_Ocb_I_l4ITai5QT&index=10
   * #### Postman API Testing Tutorial Chapter-01 - https://www.youtube.com/watch?v=Yi2J-AJiFMs&list=PLUeDIlio4THGcgNP3_Ocb_I_l4ITai5QT&index=2
@@ -17,7 +17,7 @@
   * #### Basic Auth in Postman Tutorial-11 - https://www.youtube.com/watch?v=BTFA3topFKk&list=PLUeDIlio4THGcgNP3_Ocb_I_l4ITai5QT&index=13
   * #### Variables in Postman Tutorial-12 | Local Environment Global Variables- https://www.youtube.com/watch?v=oSx0SAzHzek&list=PLUeDIlio4THGcgNP3_Ocb_I_l4ITai5QT&index=14
   * #### Postman Integration with GitHub and Jenkins-13 - https://www.youtube.com/watch?v=YcpNEQd5P4E&list=PLUeDIlio4THGcgNP3_Ocb_I_l4ITai5QT&index=15
-    
+=======================================================================
 * #### API Automation Testing Using Rest Assured Full Course Part-01 - https://www.youtube.com/watch?v=o9KJhGHl49M&list=PLUeDIlio4THGL7lQXQwxsV9re_i0U2b0Q&index=3
 * #### API Automation Testing Using Rest Assured Full Course Part-02 - https://www.youtube.com/watch?v=kay86__5eTg&list=PLUeDIlio4THGL7lQXQwxsV9re_i0U2b0Q&index=4
   
